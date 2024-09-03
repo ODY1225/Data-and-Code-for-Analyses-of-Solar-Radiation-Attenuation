@@ -13,7 +13,7 @@
 * TAD_v2022_20220601.csv
 
 ### *Below data are available at the Google Drive(https://drive.google.com/drive/folders/1bLw8MVSd_hMTnAbyBaB4tRLrFY4jiodo?usp=sharing)*
-### TCCIP Radiation
+### TCCIP Satellite-retrieved Shortwave Radiation
 #### Before remove rainy data
 * MonthHour_pot_20112019_Before.npy 
 * MonthHour_mean_20112019_Before.npy 
