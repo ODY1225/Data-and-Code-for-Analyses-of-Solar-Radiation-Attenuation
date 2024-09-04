@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 #%% In-situ data preparation
-Root = 'D:/ODY/NTU/Research/Alishan Radiaiton Meeting/8.Thesis (B.A.)/Data_and_Code/'
+Root = ''
 def CWA_StationData(istation_name):
     # Load data
     df = pd.read_csv(Root+istation_name+'_CWA_19802020.csv')
