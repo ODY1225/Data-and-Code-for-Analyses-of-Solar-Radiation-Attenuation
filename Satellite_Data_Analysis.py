@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import cartopy.crs as ccrs
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
 #%% Satellite data preparation
-Root = 'D:/ODY/NTU/Research/Alishan Radiaiton Meeting/8.Thesis (B.A.)/Data_and_Code/'
+Root = ''
 
 # Terrain
 dem20 = nc.Dataset(Root+'dem20_TCCIPInsolation.nc')
